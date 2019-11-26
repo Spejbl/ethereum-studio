@@ -2,7 +2,7 @@
 # Start with a minimal configuration that you can customize to build your code
 # http://superblocks.com/docs/configuration/configuration-introduction/#section=configuration
 
-version: 1
+version: 11
 jobs:
   compile:
     image: node
