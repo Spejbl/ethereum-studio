@@ -1,4 +1,4 @@
-version: 5
+version: asdasdasd
 jobs:
   compile:
     image: node
