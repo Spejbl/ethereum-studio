@@ -1,4 +1,4 @@
-version: asdasdasd
+version: dddd
 jobs:
   compile:
     image: node
